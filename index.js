@@ -51,7 +51,6 @@ function clearInputFieldEl() {
 }
 
 function addItemsEl(item) {
-    // itemsEl.innerHTML += `<li>${itemValue}</li>`
     let itemID = item[0]
     let itemValue = item[1]
 
